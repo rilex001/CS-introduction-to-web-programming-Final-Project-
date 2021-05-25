@@ -129,6 +129,8 @@
     margin: 10px auto;
     color: var(--primary);
     border: 1px solid black;
+    font-size: 25px;
+    width: 50%;
   }
 
   #services tr:nth-child(even) {
