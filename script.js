@@ -1,1 +1,0 @@
-alert("Pusite kurac mi smo sampioni")
